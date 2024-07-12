@@ -168,33 +168,4 @@ Busca livros na API do Google Books com base na query fornecida.
 
 ## Conclusão ##
 
-Este projeto demonstra a integração de diferentes tecnologias e serviços para criar uma aplicação completa e dockerizada. Espero que este guia tenha sido útil e que você possa aproveitar ao máximo esta aplicação. Se tiver dúvidas, sinta-se à vontade para entrar em contato.
-
-
-# Instruções para Executar o Cliente da Aplicação Web
-
-Para visualizar a aplicação web, siga os passos abaixo para inicializar o servidor de desenvolvimento do aplicativo.
-
-## Passos para Inicializar o Cliente
-
-### 1. Instalar Dependências
-
-Antes de iniciar o servidor de desenvolvimento, é necessário instalar as dependências do projeto. Abra um terminal no diretório `/client-main/` e execute o comando abaixo:
-
-npm install
-
-#### 2. Iniciar o Servidor de Desenvolvimento
-
-Com as dependências instaladas, você pode iniciar o servidor de desenvolvimento executando o comando:
-
-npm run dev
-
-##### 3. Acessar a Aplicação Web
-
-Após iniciar o servidor, o site estará disponível no seguinte endereço:
-
-http://localhost:5173/
-
-Caso este endereço já esteja em uso, verifique a URL apresentada no terminal para acessar a aplicação.
-
-Executar também, em outro terminal, os passos descritos no readme do backend (server-main) para conectar ao banco de dados e a API.
+Este projeto demonstra a integração de diferentes tecnologias e serviços para criar uma aplicação completa e dockerizada.
